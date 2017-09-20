@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "babbleBoxhtml.data.unityweb",
+"asmCodeUrl": "babbleBoxhtml.asm.code.unityweb",
+"asmMemoryUrl": "babbleBoxhtml.asm.memory.unityweb",
+"asmFrameworkUrl": "babbleBoxhtml.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
